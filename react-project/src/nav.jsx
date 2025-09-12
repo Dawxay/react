@@ -1,6 +1,6 @@
 export default function Nav(){
     return 
-    <ul>
+    <ul className="flex">
         <li></li>
         <li></li>
         <li></li>
